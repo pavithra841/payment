@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: payment-service
-        image: your-dockerhub-username/payment-service:latest  # Update this
+        image: 23mis0160/payment-service:latest  # Update this
         ports:
         - containerPort: 8080
         resources:
